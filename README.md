@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mcpherson-la
+- 👋 Hi, I’m @mcpherson-la (Lauren)
 - 👀 I’m interested in ... front-end development, web design, etc.
 - 🌱 I’m currently learning ... HTML5/CSS3, will progress to JavaScript next
 - 💞️ I’m looking to collaborate on ... any projects relating to front-end languages
